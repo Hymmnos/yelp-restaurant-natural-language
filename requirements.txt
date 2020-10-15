@@ -1,0 +1,4 @@
+# hold all package dependencies here for now
+googlemaps
+ftfy
+google.cloud
